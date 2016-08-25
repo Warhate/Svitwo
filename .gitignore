@@ -243,3 +243,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Library/AnnotationManager
+/Library/assetDatabase3
+/Library/AssetImportState
+/Library
